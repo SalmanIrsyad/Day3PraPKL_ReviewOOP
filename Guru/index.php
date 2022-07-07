@@ -12,7 +12,7 @@
   </head>
   <body>
     <br><br>
-        <center><h2>Guru</h2></center>
+        <center><h1>Guru</h1></center>
         <br><br>
         <!-- CARDs -->
         <div class="container">
