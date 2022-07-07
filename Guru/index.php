@@ -19,7 +19,7 @@
         <div class="card">
             <div class="card-header">
                 <h3>Data Guru</h3><br>
-                <center><a href="create.php" class="btn btn-primary">Tambah Data</a></center>
+                <center><a href="create.php" class="btn btn-primary">Create Data</a></center>
             </div>
             <div class="card-body">
                 <!-- TABLE GURU -->
